@@ -1,6 +1,6 @@
 # 💫🙋🏾‍♂️ Olá! Me chamo Pedro Vinícius
 - 💻👨🏾‍💻 Sou estudante de Engenharia de Software
-- 👀 Gosto e tenho interesse em Tecnologia
+- 👀 Gosto e tenho interesse em Tecnologia, busco iniciar na área através de desenvolvimento web.
 - 🌱 Atualmente estudo C# e o básico em HTML e CSS<br>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
