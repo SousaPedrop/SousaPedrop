@@ -10,9 +10,9 @@
 <a href = "mailto:sousapedro.work@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/sousapedrovp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 ##
-![](https://github-readme-stats.vercel.app/api?username=SousaPedrop&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SousaPedrop&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SousaPedrop&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SousaPedrop&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SousaPedrop&show_icons=true&theme=dark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
